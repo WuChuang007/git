@@ -1,4 +1,1 @@
-atguigu  1
-atguigu  2
-
-atguigu  3
+atguigu 1000
